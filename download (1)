@@ -1,0 +1,4 @@
+public/pyodide
+public/sw.js
+.vercel
+node_modules
